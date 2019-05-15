@@ -1,3 +1,3 @@
-<p style="color:blue;font-size:18px;">Simple Calculator in C#</p>  
+#** Simple Calculator in C# **#
 
 <img src="images/slika1.jpg">
