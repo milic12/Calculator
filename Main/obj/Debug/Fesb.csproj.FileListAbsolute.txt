@@ -1,0 +1,9 @@
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\bin\Debug\Fesb.exe.config
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\bin\Debug\Fesb.exe
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\bin\Debug\Fesb.pdb
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\obj\Debug\Fesb.csprojResolveAssemblyReference.cache
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\obj\Debug\Fesb.Form1.resources
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\obj\Debug\Fesb.Properties.Resources.resources
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\obj\Debug\Fesb.csproj.GenerateResource.Cache
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\obj\Debug\Fesb.exe
+c:\users\oreo\documents\visual studio 2012\Projects\Fesb\Fesb\obj\Debug\Fesb.pdb
